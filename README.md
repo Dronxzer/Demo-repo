@@ -1,5 +1,7 @@
 ##Demo 
 
 This is a Readme file.
-Adding Line Number 2 
+
 Commiting we are now only.
+Line number 4 has been removed and then commmit happened.
+
